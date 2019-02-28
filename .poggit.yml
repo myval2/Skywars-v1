@@ -3,5 +3,6 @@ branches:
 - master
 projects:
 Skywars:
+path: ""
 
 ...
