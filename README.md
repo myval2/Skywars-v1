@@ -1,1 +1,1 @@
-# Skywars
+# Skywars minigame
