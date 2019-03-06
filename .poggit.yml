@@ -1,7 +1,8 @@
 --- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/myvalCZE/Skyvars-v1
-  branches:
+branches:
 - master
-  projects:
-  Skywars-v1:
-  path: "Skywars-v1"
-  icon:
+ projects:
+    Skywars-v1:
+      path: "Skywars-v1"
+
+...
