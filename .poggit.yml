@@ -2,6 +2,6 @@
 branches:
 - master
 projects:
-SkyWars:
+Skywars-v1:
 path: "Skywars-v1"
 ...
