@@ -3,5 +3,5 @@ branches:
 - master
 projects:
 Skywars-v1:
-path:"Skywars-v1"
+path: "Skywars-v1"
 icon:
