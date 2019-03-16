@@ -3,7 +3,7 @@ branches:
 - master
 projects:
   Skywars-v1:
-    path: ""
+    path: Skywars-v1/
 
 
 
